@@ -3,7 +3,7 @@ que sera o contador dos laco de repeticao di tipo inteiro tambem,
  essa variavel esta sendo usada para armazanar os 6 valores do usuario, atraves de um vetor.
  tambem ultizando dois lacos de repeticao do tipo for, no primeiro laco ele pega os valores do usuario,
  ja no segundo laco ele ja sabendo quais sao os valores do usuario ele ordena os numeros em sequencia.
- e no final apresenta os valores na sequencia correta*/
+ e no final apresenta os valores na sequencia correta.*/
  
 
 #include<stdio.h>
