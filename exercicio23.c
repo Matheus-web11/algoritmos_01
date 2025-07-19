@@ -8,7 +8,7 @@ com isso eu realizo o processo de fibonacci que os dois primeiros termos somados
 termo e assim por diante, as bases nunca mudam. eu somo o primeiro termo com o segundo, e depois
 o primeiro termo da sequencia pega o valor do segundo, e depois o segundo termo pega o valor de
 fibonacci que vale 0, para assim ele saber qual sera o ultimo termo da sequencia e parar e 
-depois do processo ele mostra a resposta da fibonacci*/
+depois do processo ele mostra a resposta da fibonacci.*/
 
 #include<stdio.h>
 
