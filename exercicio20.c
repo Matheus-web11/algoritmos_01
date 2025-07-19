@@ -1,3 +1,12 @@
+/*nesse algoritmo foi utilizado quatro variaveis do tipo char, dois contadores para os lacos for,
+  outro que e um vetor chamado letras que armazena 3 posicoes para as letras, e outro que chama valor, que
+vai pegar as letras e ordenalas em ordem cresecnte, sendo em ordem alfabetica. primeiro eu peco pro usuario
+digitar as letras dentro do primeiro laco, o outro vai realizar o processo de ordena las, nele eu uso tres ifs,
+  cada if analisa a posicao onde se encontra casa letra. em resumo ele pega a variavel valor que e temporaria,
+  atribui a letra na posicao 0 digitada pelo o usuario, depois a posicao vai pra 1, mudando sua posicao, e assim
+a variavel valor pega essa letra ordena conforme a condicao se a posicao 0 for maior que a um realiza esse processo
+dito anteriormente*/
+
 #include <stdio.h>
 
 int main(){
